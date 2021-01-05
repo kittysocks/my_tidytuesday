@@ -1,1 +1,1 @@
-# personaly_tidytuesday
+## Personal Tidy Tuesday Repo
